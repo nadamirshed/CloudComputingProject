@@ -5,6 +5,8 @@ import android.os.Bundle;
 import android.widget.Button;
 import android.widget.TextView;
 
+import com.example.cloudcomputingproject.Patient.adapter.SignupActivity;
+
 public class DoctorOrPatient extends AppCompatActivity {
 
     @Override
