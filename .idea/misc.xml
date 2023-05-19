@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/al-khateb/AndroidStudioProjects/CloudComputingProject/app/src/main/res/drawable/rounded_border.xml" value="0.2085" />
+        <entry key="..\:/Users/al-khateb/AndroidStudioProjects/CloudComputingProject/app/src/main/res/drawable/transparent_background.xml" value="0.214" />
+        <entry key="..\:/Users/al-khateb/AndroidStudioProjects/CloudComputingProject/app/src/main/res/layout/activity_add_topic.xml" value="0.264" />
+        <entry key="..\:/Users/al-khateb/AndroidStudioProjects/CloudComputingProject/app/src/main/res/layout/activity_add_video.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/al-khateb/AndroidStudioProjects/CloudComputingProject/app/src/main/res/layout/activity_doctor_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/al-khateb/AndroidStudioProjects/CloudComputingProject/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/al-khateb/AndroidStudioProjects/CloudComputingProject/app/src/main/res/layout/activity_main4.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/al-khateb/AndroidStudioProjects/CloudComputingProject/app/src/main/res/layout/activity_medical_consulting_photo.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/al-khateb/AndroidStudioProjects/CloudComputingProject/app/src/main/res/layout/activity_signin.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/al-khateb/AndroidStudioProjects/CloudComputingProject/app/src/main/res/layout/activity_signup.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/al-khateb/AndroidStudioProjects/CloudComputingProject/app/src/main/res/layout/activity_topics_available.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/al-khateb/AndroidStudioProjects/CloudComputingProject/app/src/main/res/layout/item_task.xml" value="0.264" />
+        <entry key="..\:/Users/al-khateb/AndroidStudioProjects/CloudComputingProject/app/src/main/res/layout/selected_topic_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/al-khateb/AndroidStudioProjects/CloudComputingProject/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Embedded JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
